@@ -24,7 +24,7 @@ Logistic Regression Model with Original Data
 | False     | 56 | 563 |
 
 Logistic Regression Model with Resampled (ROS) Training Data
-* Balanced Accuracy: 
+* Balanced Accuracy: 0.994
 * Healthy Loans
   * Precision: 1.00
   * Recall: 0.99
